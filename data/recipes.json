@@ -3,7 +3,7 @@
     "id": 1,
     "chef_id": 1,
     "name": "Spaghetti Carbonara",
-    "image": "spaghetti-carbonara.jpg",
+    "image": "https://i.ibb.co/3cfWnWq/Spaghetti-Carbonara.png",
     "ingredients": [
       "spaghetti",
       "bacon",
@@ -18,7 +18,7 @@
     "id": 2,
     "chef_id": 1,
     "name": "Margherita Pizza",
-    "image": "margherita-pizza.jpg",
+    "image": "https://i.ibb.co/mXytWDf/Margherita-Pizza.png",
     "ingredients": [
       "pizza dough",
       "tomato sauce",
@@ -33,7 +33,7 @@
     "id": 3,
     "chef_id": 1,
     "name": "Lasagna",
-    "image": "lasagna.jpg",
+    "image": "https://i.ibb.co/3pPRccQ/Lasagna.png",
     "ingredients": [
       "lasagna noodles",
       "ground beef",
@@ -48,7 +48,7 @@
     "id": 4,
     "chef_id": 2,
     "name": "Pesto Pasta",
-    "image": "pesto-pasta.jpg",
+    "image": "https://i.ibb.co/dbY1dfK/Pesto-Pasta.png",
     "ingredients": [
       "pasta",
       "basil leaves",
@@ -63,7 +63,7 @@
     "id": 5,
     "chef_id": 2,
     "name": "Bruschetta",
-    "image": "bruschetta.jpg",
+    "image": "https://i.ibb.co/m02J5hB/Bruschettai.png",
     "ingredients": [
       "baguette",
       "tomatoes",
@@ -78,7 +78,7 @@
     "id": 6,
     "chef_id": 2,
     "name": "Chicken Parmesan",
-    "image": "chicken-parmesan.jpg",
+    "image": "https://i.ibb.co/kygmJVy/Chicken-Parmesan.png",
     "ingredients": [
       "chicken breasts",
       "breadcrumbs",
@@ -93,7 +93,7 @@
     "id": 7,
     "chef_id": 3,
     "name": "Tiramisu",
-    "image": "tiramisu.jpg",
+    "image": "https://i.ibb.co/t8kPJfP/Tiramisu.png",
     "ingredients": [
       "ladyfingers",
       "espresso",
@@ -108,7 +108,7 @@
     "id": 8,
     "chef_id": 3,
     "name": "Risotto",
-    "image": "risotto.jpg",
+    "image": "https://i.ibb.co/P6qqyy1/Risotto.png",
     "ingredients": [
       "arborio rice",
       "chicken broth",
@@ -123,7 +123,7 @@
     "id": 9,
     "chef_id": 3,
     "name": "Osso Buco",
-    "image": "osso-buco.jpg",
+    "image": "https://i.ibb.co/RbCxHbH/Osso-Buco.png",
     "ingredients": ["veal shanks", "onion", "carrot", "celery", "tomato paste"],
     "cooking_method": "1. Heat olive oil in a large pot. 2. Brown veal shanks on all sides. 3. Remove veal and sauté onions, carrots, and celery until softened. 4. Add tomato paste and cook for 1 minute. 5. Return veal to pot and add enough water to cover. 6. Simmer for 2-3 hours, until veal is tender. 7. Serve with gremolata (lemon zest, garlic, and parsley).",
     "rating": 4.7
@@ -132,7 +132,7 @@
     "id": 10,
     "chef_id": 4,
     "name": "Minestrone",
-    "image": "minestrone.jpg",
+    "image": "https://i.ibb.co/JQ6V1vc/Minestrone.jpg",
     "ingredients": [
       "vegetable broth",
       "cannellini beans",
@@ -147,7 +147,7 @@
     "id": 11,
     "chef_id": 4,
     "name": "Spaghetti Carbonara",
-    "image": "spaghetti-carbonara.jpg",
+    "image": "https://i.ibb.co/3cfWnWq/Spaghetti-Carbonara.png",
     "ingredients": [
       "spaghetti",
       "bacon",
@@ -162,7 +162,7 @@
     "id": 12,
     "chef_id": 4,
     "name": "Panna Cotta",
-    "image": "panna-cotta.jpg",
+    "image": "https://i.ibb.co/R7Yc9cr/Panna-Cotta.png",
     "ingredients": [
       "heavy cream",
       "sugar",
@@ -177,7 +177,7 @@
     "id": 13,
     "chef_id": 5,
     "name": "Focaccia",
-    "image": "focaccia.jpg",
+    "image": "https://i.ibb.co/7YQGQ23/Focaccia.png",
     "ingredients": ["flour", "yeast", "water", "olive oil", "salt"],
     "cooking_method": "1. Mix flour, yeast, salt, and water to form a dough. 2. Knead the dough for 10 minutes. 3. Let the dough rise for 1 hour. 4. Punch the dough down and roll it out on a baking sheet. 5. Drizzle with olive oil and sprinkle with salt. 6. Let rise for another 30 minutes. 7. Bake at 400°F for 25-30 minutes.",
     "rating": 4.3
@@ -186,7 +186,7 @@
     "id": 14,
     "chef_id": 5,
     "name": "Pesto Pasta",
-    "image": "pesto-pasta.jpg",
+    "image": "https://i.ibb.co/dbY1dfK/Pesto-Pasta.png",
     "ingredients": ["pasta", "basil", "pine nuts", "garlic", "parmesan cheese"],
     "cooking_method": "1. Cook pasta in boiling salted water until al dente. 2. Toast pine nuts in a dry skillet. 3. Combine basil, garlic, pine nuts, and parmesan cheese in a food processor and blend until smooth. 4. Toss pasta with pesto sauce. 5. Serve hot.",
     "rating": 4.6
@@ -195,7 +195,7 @@
     "id": 15,
     "chef_id": 5,
     "name": "Bruschetta",
-    "image": "bruschetta.jpg",
+    "image": "https://i.ibb.co/m02J5hB/Bruschettai.png",
     "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
     "cooking_method": "1. Preheat the oven to 400°F. 2. Slice the baguette and brush each slice with olive oil. 3. Toast the bread in the oven for 5-7 minutes or until lightly browned. 4. Cut the tomatoes into small pieces and mix them with minced garlic and chopped basil. 5. Top each slice of bread with the tomato mixture. 6. Serve immediately.",
     "rating": 4.5
@@ -204,7 +204,7 @@
     "id": 16,
     "chef_id": 6,
     "name": "Lasagna",
-    "image": "lasagna.jpg",
+    "image": "https://i.ibb.co/3pPRccQ/Lasagna.png",
     "ingredients": [
       "lasagna noodles",
       "ground beef",
@@ -219,7 +219,7 @@
     "id": 17,
     "chef_id": 6,
     "name": "Tiramisu",
-    "image": "tiramisu.jpg",
+    "image": "https://i.ibb.co/t8kPJfP/Tiramisu.png",
     "ingredients": [
       "mascarpone cheese",
       "heavy cream",
@@ -234,7 +234,7 @@
     "id": 18,
     "chef_id": 6,
     "name": "Osso Buco",
-    "image": "osso-buco.jpg",
+    "image": "https://i.ibb.co/RbCxHbH/Osso-Buco.png",
     "ingredients": [
       "veal shanks",
       "onion",
