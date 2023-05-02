@@ -22,6 +22,12 @@ app.get("/recipes", (req, res) => {
   res.send(recipes);
 });
 
+app.get("/recipes/:id", (req, res) => {
+  const id = Number(req.params.id);
+  const selectedRecipes = recipes.filter((recipe) => recipe.chef_id === id);
+  res.send(selectedRecipes);
+});
+
 app.listen(port, () => {
   console.log(`Hot diggity dog! Our server is up and running on port ${port}!`);
 });
