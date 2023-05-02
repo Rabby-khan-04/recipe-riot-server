@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://example.com/chef1.jpg",
+    "chef_picture": "https://i.ibb.co/9wMJX6M/Gennaro-Contaldo.png",
     "chef_name": "Gennaro Contaldo",
     "years_of_experience": 50,
     "number_of_recipes": 100,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://i.ibb.co/DbMbXN8/Massimo-Bottura.png",
     "chef_name": "Massimo Bottura",
     "years_of_experience": 30,
     "number_of_recipes": 75,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_picture": "https://i.ibb.co/vDMH4hf/Lidia-Bastianich.png",
     "chef_name": "Lidia Bastianich",
     "years_of_experience": 50,
     "number_of_recipes": 120,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_picture": "https://i.ibb.co/nBKNmLf/Carlo-Cracco.jpg",
     "chef_name": "Carlo Cracco",
     "years_of_experience": 35,
     "number_of_recipes": 90,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "chef_picture": "https://example.com/chef5.jpg",
+    "chef_picture": "https://i.ibb.co/0D3HYJf/Giada-De-Laurentiis.png",
     "chef_name": "Giada De Laurentiis",
     "years_of_experience": 20,
     "number_of_recipes": 150,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_picture": "https://i.ibb.co/vjzZDbB/Mario-Batali.png",
     "chef_name": "Mario Batali",
     "years_of_experience": 40,
     "number_of_recipes": 110,

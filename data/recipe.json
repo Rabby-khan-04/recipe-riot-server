@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "chef_id": 1,
+    "name": "Spaghetti Carbonara",
+    "image": "spaghetti-carbonara.jpg",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook bacon until crisp. 3. Beat eggs and parmesan cheese together. 4. Drain spaghetti and add to bacon. 5. Remove from heat and add egg mixture. 6. Stir until creamy. 7. Add black pepper to taste.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chef_id": 1,
+    "name": "Margherita Pizza",
+    "image": "margherita-pizza.jpg",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "basil leaves",
+      "olive oil"
+    ],
+    "cooking_method": "1. Preheat oven to 475°F. 2. Roll out pizza dough. 3. Spread tomato sauce over dough. 4. Top with mozzarella cheese. 5. Bake for 12-15 minutes. 6. Remove from oven and sprinkle with basil leaves. 7. Drizzle with olive oil.",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "chef_id": 1,
+    "name": "Lasagna",
+    "image": "lasagna.jpg",
+    "ingredients": [
+      "lasagna noodles",
+      "ground beef",
+      "tomato sauce",
+      "ricotta cheese",
+      "mozzarella cheese"
+    ],
+    "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Cook ground beef until browned. 3. Add tomato sauce and simmer for 10 minutes. 4. In a separate bowl, mix ricotta cheese and mozzarella cheese. 5. Layer noodles, meat sauce, and cheese mixture in a baking dish. 6. Bake at 375°F for 30-40 minutes.",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "chef_id": 2,
+    "name": "Pesto Pasta",
+    "image": "pesto-pasta.jpg",
+    "ingredients": [
+      "pasta",
+      "basil leaves",
+      "pine nuts",
+      "garlic",
+      "parmesan cheese"
+    ],
+    "cooking_method": "1. Cook pasta according to package instructions. 2. Blend basil leaves, pine nuts, garlic, and parmesan cheese in a food processor. 3. Add olive oil and blend until smooth. 4. Toss pesto with pasta. 5. Serve with additional parmesan cheese and pine nuts on top.",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "chef_id": 2,
+    "name": "Bruschetta",
+    "image": "bruschetta.jpg",
+    "ingredients": [
+      "baguette",
+      "tomatoes",
+      "garlic",
+      "basil leaves",
+      "olive oil"
+    ],
+    "cooking_method": "1. Slice baguette and toast until lightly browned. 2. Dice tomatoes and mix with minced garlic and chopped basil leaves. 3. Drizzle olive oil over baguette slices. 4. Spoon tomato mixture over bread. 5. Serve immediately.",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "chef_id": 2,
+    "name": "Chicken Parmesan",
+    "image": "chicken-parmesan.jpg",
+    "ingredients": [
+      "chicken breasts",
+      "breadcrumbs",
+      "parmesan cheese",
+      "tomato sauce",
+      "mozzarella cheese"
+    ],
+    "cooking_method": "1. Preheat oven to 375°F. 2. Pound chicken breasts until thin. 3. Mix breadcrumbs and parmesan cheese in a shallow dish. 4. Coat chicken breasts in breadcrumb mixture. 5. Place chicken in a baking dish and top with tomato sauce and mozzarella cheese. 6. Bake for 25-30 minutes.",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "chef_id": 3,
+    "name": "Tiramisu",
+    "image": "tiramisu.jpg",
+    "ingredients": [
+      "ladyfingers",
+      "espresso",
+      "mascarpone cheese",
+      "heavy cream",
+      "cocoa powder"
+    ],
+    "cooking_method": "1. Dip ladyfingers in espresso and arrange in a single layer in a dish. 2. Beat mascarpone cheese and heavy cream until smooth. 3. Spread half of the mixture over the ladyfingers. 4. Repeat with another layer of ladyfingers and cheese mixture. 5. Chill for at least 2 hours. 6. Dust with cocoa powder before serving.",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "chef_id": 3,
+    "name": "Risotto",
+    "image": "risotto.jpg",
+    "ingredients": [
+      "arborio rice",
+      "chicken broth",
+      "white wine",
+      "parmesan cheese",
+      "butter"
+    ],
+    "cooking_method": "1. Heat chicken broth in a separate pot. 2. Melt butter in a large skillet. 3. Add arborio rice and cook until lightly toasted. 4. Add white wine and stir until absorbed. 5. Add chicken broth one ladleful at a time, stirring constantly, until absorbed. 6. Repeat until rice is cooked. 7. Stir in parmesan cheese and serve immediately.",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "chef_id": 3,
+    "name": "Osso Buco",
+    "image": "osso-buco.jpg",
+    "ingredients": ["veal shanks", "onion", "carrot", "celery", "tomato paste"],
+    "cooking_method": "1. Heat olive oil in a large pot. 2. Brown veal shanks on all sides. 3. Remove veal and sauté onions, carrots, and celery until softened. 4. Add tomato paste and cook for 1 minute. 5. Return veal to pot and add enough water to cover. 6. Simmer for 2-3 hours, until veal is tender. 7. Serve with gremolata (lemon zest, garlic, and parsley).",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "chef_id": 4,
+    "name": "Minestrone",
+    "image": "minestrone.jpg",
+    "ingredients": [
+      "vegetable broth",
+      "cannellini beans",
+      "tomatoes",
+      "carrots",
+      "zucchini"
+    ],
+    "cooking_method": "1. Heat olive oil in a large pot. 2. Add chopped onions, carrots, celery and sauté for 5-7 minutes. 3. Add vegetable broth and canned tomatoes, bring to a simmer. 4. Add beans, zucchini, and any other vegetables of your choice. 5. Simmer for 20-30 minutes. 6. Season with salt and pepper to taste.",
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "chef_id": 4,
+    "name": "Spaghetti Carbonara",
+    "image": "spaghetti-carbonara.jpg",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. Fry bacon until crispy. 3. Beat eggs with parmesan cheese and black pepper. 4. Drain spaghetti and add to bacon in pan. 5. Remove pan from heat and add egg mixture, stirring quickly to coat pasta. 6. Serve immediately.",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "chef_id": 4,
+    "name": "Panna Cotta",
+    "image": "panna-cotta.jpg",
+    "ingredients": [
+      "heavy cream",
+      "sugar",
+      "gelatin",
+      "vanilla extract",
+      "raspberries"
+    ],
+    "cooking_method": "1. Bloom gelatin in cold water. 2. Heat cream, sugar, and vanilla in a saucepan. 3. Add bloomed gelatin and stir until dissolved. 4. Pour mixture into ramekins and chill until set. 5. Serve with fresh raspberries.",
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "chef_id": 5,
+    "name": "Focaccia",
+    "image": "focaccia.jpg",
+    "ingredients": ["flour", "yeast", "water", "olive oil", "salt"],
+    "cooking_method": "1. Mix flour, yeast, salt, and water to form a dough. 2. Knead the dough for 10 minutes. 3. Let the dough rise for 1 hour. 4. Punch the dough down and roll it out on a baking sheet. 5. Drizzle with olive oil and sprinkle with salt. 6. Let rise for another 30 minutes. 7. Bake at 400°F for 25-30 minutes.",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "chef_id": 5,
+    "name": "Pesto Pasta",
+    "image": "pesto-pasta.jpg",
+    "ingredients": ["pasta", "basil", "pine nuts", "garlic", "parmesan cheese"],
+    "cooking_method": "1. Cook pasta in boiling salted water until al dente. 2. Toast pine nuts in a dry skillet. 3. Combine basil, garlic, pine nuts, and parmesan cheese in a food processor and blend until smooth. 4. Toss pasta with pesto sauce. 5. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "chef_id": 5,
+    "name": "Bruschetta",
+    "image": "bruschetta.jpg",
+    "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
+    "cooking_method": "1. Preheat the oven to 400°F. 2. Slice the baguette and brush each slice with olive oil. 3. Toast the bread in the oven for 5-7 minutes or until lightly browned. 4. Cut the tomatoes into small pieces and mix them with minced garlic and chopped basil. 5. Top each slice of bread with the tomato mixture. 6. Serve immediately.",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "chef_id": 6,
+    "name": "Lasagna",
+    "image": "lasagna.jpg",
+    "ingredients": [
+      "lasagna noodles",
+      "ground beef",
+      "tomato sauce",
+      "ricotta cheese",
+      "mozzarella cheese"
+    ],
+    "cooking_method": "1. Cook lasagna noodles in boiling salted water until al dente. 2. Brown ground beef in a skillet. 3. Add tomato sauce to the beef and simmer for 10-15 minutes. 4. Mix ricotta cheese with salt and pepper. 5. Layer noodles, meat sauce, ricotta mixture, and mozzarella cheese in a baking dish. 6. Bake at 375°F for 25-30 minutes.",
+    "rating": 4.8
+  },
+  {
+    "id": 17,
+    "chef_id": 6,
+    "name": "Tiramisu",
+    "image": "tiramisu.jpg",
+    "ingredients": [
+      "mascarpone cheese",
+      "heavy cream",
+      "sugar",
+      "espresso",
+      "ladyfingers"
+    ],
+    "cooking_method": "1. Combine mascarpone cheese, heavy cream, and sugar in a bowl. 2. Brew espresso and let it cool. 3. Dip ladyfingers in the espresso and layer them in a serving dish. 4. Spread the mascarpone mixture over the ladyfingers. 5. Repeat the layers. 6. Chill for at least 2 hours. 7. Dust with cocoa powder before serving.",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "chef_id": 6,
+    "name": "Osso Buco",
+    "image": "osso-buco.jpg",
+    "ingredients": [
+      "veal shanks",
+      "onion",
+      "carrots",
+      "celery",
+      "tomato paste"
+    ],
+    "cooking_method": "1. Heat olive oil in a Dutch oven. 2. Brown the veal shanks on all sides. 3. Remove the shanks from the pot and set aside. 4. Add onion, carrots, celery, and sauté for 5-7 minutes. 5. Add tomato paste and stir to combine. 6. Add the shanks back to the pot and pour in enough beef broth to cover the shanks. 7. Simmer for 2-3 hours or until the meat is tender. 8. Serve with gremolata and polenta.",
+    "rating": 4.7
+  }
+]
