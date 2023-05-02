@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://example.com/chef1.jpg",
+    "chef_name": "Gennaro Contaldo",
+    "years_of_experience": 50,
+    "number_of_recipes": 100,
+    "likes": 5000,
+    "short_bio": "Gennaro Contaldo is a veteran Italian chef with over 50 years of experience. He has published several cookbooks and is known for his TV appearances on Jamie Oliver's shows. Gennaro's recipes are authentic and delicious, inspired by his childhood in Italy."
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Massimo Bottura",
+    "years_of_experience": 30,
+    "number_of_recipes": 75,
+    "likes": 8000,
+    "short_bio": "Massimo Bottura is one of the most influential chefs in the world, known for his innovative approach to Italian cuisine. He is the owner of Osteria Francescana, which has been named the best restaurant in the world multiple times. Massimo's recipes are a blend of tradition and creativity, always surprising and delightful."
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_name": "Lidia Bastianich",
+    "years_of_experience": 50,
+    "number_of_recipes": 120,
+    "likes": 4000,
+    "short_bio": "Lidia Bastianich is an Italian-American chef and restaurateur, known for her authentic Italian cuisine. She has written several cookbooks and hosted her own TV shows. Lidia's recipes are simple and flavorful, inspired by the traditions of her native Friuli region in Italy."
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_name": "Carlo Cracco",
+    "years_of_experience": 35,
+    "number_of_recipes": 90,
+    "likes": 6000,
+    "short_bio": "Carlo Cracco is a renowned Italian chef and TV personality, with over 35 years of experience. He is the owner of several restaurants and has been awarded multiple Michelin stars. Carlo's recipes are sophisticated and elegant, blending traditional Italian flavors with modern techniques."
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://example.com/chef5.jpg",
+    "chef_name": "Giada De Laurentiis",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 9000,
+    "short_bio": "Giada De Laurentiis is a popular Italian-American chef, known for her TV shows and cookbooks. She is passionate about Italian cuisine and often incorporates her own California style into her recipes. Giada's dishes are colorful, fresh, and delicious, perfect for any occasion."
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_name": "Mario Batali",
+    "years_of_experience": 40,
+    "number_of_recipes": 110,
+    "likes": 7000,
+    "short_bio": "Mario Batali is a celebrated Italian-American chef and restaurateur, with over 40 years of experience. He has written several cookbooks and hosted his own TV shows. Mario's recipes are rustic and hearty, inspired by the traditions of Italian cuisine. He is also a big advocate for sustainable and locally-sourced ingredients."
+  }
+]
